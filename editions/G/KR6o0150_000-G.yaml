@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0150/g/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩提道燈論
+  edition:
+    short: g
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G148/G148n2518.xml
+    old_id: G148n2518
+hash: sha256:7662128aa7e0df64aab00a9037913effd8df4ccde9972de4752a9bf667245abd

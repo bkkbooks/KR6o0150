@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6o0150/G/v1
+canonical_location: https://kanripo.org/bkk/KR6o0150/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩提道燈論
+  identifiers:
+    krp: KR6o0150
+    cbeta: G148n2518
+    cbeta_old_id: G148n2518
+    authorityid: CA0008666
+    json_key: G2518
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G148/G148n2518.xml
+    old_id: G148n2518
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0150_000-G.yaml, hash: 'sha256:7662128aa7e0df64aab00a9037913effd8df4ccde9972de4752a9bf667245abd'}
+  - {seq: 1, filename: KR6o0150_001-G.yaml, hash: 'sha256:da6e89371866721bd4370922756cba2434a0b23a2ffa1703d822fbf061e8cf65'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0150_000-G.markers.yaml, hash: 'sha256:ed1f207b5242e78a91ada61e772a80cfcf71b726fd1123501356f31743f88353'}
+  - {seq: 1, role: markers, filename: assets/KR6o0150_001-G.markers.yaml, hash: 'sha256:caf66fa8a0cb44b6a161449a37592b7c53e65d123be8aa868e8b346a3a96dfa6'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0150_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 1639
+  label: 菩提道燈論
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0150_G_001-mulu-1
+    span:
+    - body
+    - 2
+    - 2
+  label: 編者誌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6o0150_G_001-mulu-2
+    span:
+    - body
+    - 111
+    - 111
+  label: 菩提道燈論
+  type: mulu
+  level: 1
+hash: sha256:378ae0c741161b8b846e65448838d67f41c2278a1c5f9e81701008809d8d88fe
