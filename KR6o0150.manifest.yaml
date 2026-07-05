@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6o0150_000.yaml, hash: 'sha256:7662128aa7e0df64aab00a9037913effd8df4ccde9972de4752a9bf667245abd'}
-  - {seq: 1, filename: KR6o0150_001.yaml, hash: 'sha256:c5af7fe5fbce7984b649159b3689e8c7abf852b02d08124ec43430a3d1d65d45'}
+  - {seq: 1, filename: KR6o0150_001.yaml, hash: 'sha256:da6e89371866721bd4370922756cba2434a0b23a2ffa1703d822fbf061e8cf65'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0150_001.markers.yaml, hash: 'sha256:4a520778af824cac3e29f1374b6cab13184a32f45e0b10b350bdc94b0ef32242'}
+  - {seq: 0, role: markers, filename: assets/KR6o0150_000.markers.yaml, hash: 'sha256:a7328115a1222d494fff6f8e4d4d7736c21c6abcf7fcdaa69fa2dd81f9b9b443'}
+  - {seq: 1, role: markers, filename: assets/KR6o0150_001.markers.yaml, hash: 'sha256:f51aec1f806e7749f83c31e6525c39c622a8904c5c9949e15056d3f10c918f97'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,9 +49,6 @@ table_of_contents:
   label: 菩提道燈論
   type: mulu
   level: 1
-hash: sha256:31d5978eb2b25a7570c620d7f107b604c5072a7656aabdf2040d357b8c06ecce
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bf29ccd9827292d8ae769b8172c6b5d72730edbdf6f09955f1e9b386fde382cc
 editions:
 - short: G
