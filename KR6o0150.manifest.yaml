@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0150/v1
 canonical_location: https://kanripo.org/bkk/KR6o0150/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 菩提道燈論
   source:
@@ -14,10 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6o0150_000.yaml, hash: 'sha256:7662128aa7e0df64aab00a9037913effd8df4ccde9972de4752a9bf667245abd'}
-  - {seq: 1, filename: KR6o0150_001.yaml, hash: 'sha256:da6e89371866721bd4370922756cba2434a0b23a2ffa1703d822fbf061e8cf65'}
+  - {seq: 1, filename: KR6o0150_001.yaml, hash: 'sha256:742ae64f191a3bd2c80d9645f2d7290560214389dee7b1d3431335a7023d5edc'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0150_000.markers.yaml, hash: 'sha256:a7328115a1222d494fff6f8e4d4d7736c21c6abcf7fcdaa69fa2dd81f9b9b443'}
-  - {seq: 1, role: markers, filename: assets/KR6o0150_001.markers.yaml, hash: 'sha256:f51aec1f806e7749f83c31e6525c39c622a8904c5c9949e15056d3f10c918f97'}
+  - {seq: 1, role: markers, filename: assets/KR6o0150_001.markers.yaml, hash: 'sha256:7a51e43bd418b91e2823283c7aa34db0d379b2cca4971529e347f7861abec250'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,6 +49,9 @@ table_of_contents:
   label: 菩提道燈論
   type: mulu
   level: 1
-hash: sha256:bf29ccd9827292d8ae769b8172c6b5d72730edbdf6f09955f1e9b386fde382cc
+hash: sha256:3600fac33cd90d2ec8dcb45b654f646cc07759040cd14353034e81e4612fb4e9
 editions:
 - short: G
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
